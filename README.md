@@ -1,5 +1,3 @@
-
-
 # Detect Terrorists Repository
 
 Develop a comprehensive machine learning and computer vision system that can detect potential terrorists in a given environment By classifying people as civilians or military and see whether they are carrying weapons or not.
