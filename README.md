@@ -2,7 +2,7 @@
 
 # Detect Terrorists Repository
 
-This project focuses on abstractive text summarization for the Arabic language using state-of-the-art transformer-based models. The goal is to develop a model capable of generating concise and meaningful summaries for given paragraphs. Competition Military Technical College
+Develop a comprehensive machine learning and computer vision system that can detect potential terrorists in a given environment By classifying people as civilians or military and see whether they are carrying weapons or not.
 
 ## Contributing
 
